@@ -1,0 +1,42 @@
+.testimonial-wrapper {
+    width: 100%;
+    background-color: $primary-color;
+    text-align: center;
+    color: $white-col;
+
+    h2 {
+        font-size: 2rem;
+        font-weight: 200;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1rem;
+        font-weight: 200;
+        margin-bottom: 2rem;
+    }
+
+    .testimonial {
+        width: 22%;
+        border: 1px solid #a0c2e8;
+        padding: 4rem 0;
+
+
+        img {
+            border-radius: 100%;
+            width: 60%;
+        }
+
+        h3 {
+            font-size: 1.5rem;
+            font-weight: 200;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        h5 {
+            font-size: 1.1rem;
+            font-weight: 200;
+        }
+    }
+}

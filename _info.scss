@@ -1,0 +1,28 @@
+.info {
+    section {
+        width: 30%;
+        padding: 20px;
+
+        h2 {
+            font-weight: 300;
+            margin-bottom: 1.5rem;
+            line-height: 2rem;
+            color: $primary-color;
+        }
+
+        p {
+            font-weight: 300;
+            margin-bottom: 1.2rem;
+            line-height: 2rem;
+            color: grey;
+        }
+
+        hr {
+            width: 0.5px;
+            height: auto;
+            border: none;
+            background-color: #dfdfdf;
+        }
+
+    }
+}
